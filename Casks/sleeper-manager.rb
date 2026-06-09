@@ -1,6 +1,6 @@
 cask "sleeper-manager" do
   version "1.9.24"
-  sha256 "1676d0e1332140963635bdfcd79a97957c9995a2d22ba8102394ba904167df73"
+  sha256 "4d43ef0eb754c75a5caad6e115a752138e056cbeb37be575e0ccf21a2f211672"
 
   url "https://sleeper.darthworks.io/downloads/sleeper-manager-mac.zip"
   name "Sleeper Manager"
