@@ -3,7 +3,7 @@ class SleeperManager < Formula
   homepage "https://sleeper.darthworks.io"
   url "https://sleeper.darthworks.io/downloads/sleeper-manager-source.tar.gz"
   version "1.9.24"
-  sha256 "5a75a52353efa08363061231ea6802d0c5c0e67ccdb808a3c07a483d0199238b"
+  sha256 "a04a3180da117dc55218b5566ee0b4d39deb874a059733a77ee517cf088cea55"
   license "MIT"
 
   depends_on "python@3.13"
